@@ -1,5 +1,5 @@
 const database = {
-    fishes = [
+    fishes: [
         {
             id: 1,
             species: "Fish 1",
@@ -7,7 +7,7 @@ const database = {
             name: "Fish 1",
             locationId: 1,
             diet: "Food",
-            img: ""
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlFQ8tIFuI5xIwIF9hZdA2O7vDS9ikkH73Q&usqp=CAU"
         },
         {
             id: 2,
@@ -16,7 +16,7 @@ const database = {
             name: "Fish 2",
             locationId: 2,
             diet: "Food",
-            img: ""
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlFQ8tIFuI5xIwIF9hZdA2O7vDS9ikkH73Q&usqp=CAU"
         },
         {
             id: 3,
@@ -25,7 +25,7 @@ const database = {
             name: "Fish 3",
             locationId: 3,
             diet: "Food",
-            img: ""
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlFQ8tIFuI5xIwIF9hZdA2O7vDS9ikkH73Q&usqp=CAU"
         },
         {
             id: 4,
@@ -34,7 +34,7 @@ const database = {
             name: "Fish 4",
             locationId: 4,
             diet: "Food",
-            img: ""
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlFQ8tIFuI5xIwIF9hZdA2O7vDS9ikkH73Q&usqp=CAU"
         },
         {
             id: 5,
@@ -43,7 +43,7 @@ const database = {
             name: "Fish 5",
             locationId: 5,
             diet: "Food",
-            img: ""
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlFQ8tIFuI5xIwIF9hZdA2O7vDS9ikkH73Q&usqp=CAU"
         },
         {
             id: 6,
@@ -52,10 +52,10 @@ const database = {
             name: "Fish 6",
             locationId: 6,
             diet: "Food",
-            img: ""
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlFQ8tIFuI5xIwIF9hZdA2O7vDS9ikkH73Q&usqp=CAU"
         }
     ],
-    locations = [
+    locations: [
         {
             id: 1,
             place: "Location 1",
